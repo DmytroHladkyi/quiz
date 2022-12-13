@@ -1,0 +1,23 @@
+[
+    {
+        "pytanie":"Stolica Ukrainy?",
+        "a":"Kiev",
+        "b":"Warszawa",
+        "c":"Berlin",
+        "odpowiedz":"a"
+    },
+    {
+        "pytanie":"Stolica Niemiec?",
+        "a":"Kiev",
+        "b":"Warszawa",
+        "c":"Berlin",
+        "odpowiedz":"c"
+    },
+    {
+        "pytanie":"Stolica Polski?",
+        "a":"Kiev",
+        "b":"Warszawa",
+        "c":"Berlin",
+        "odpowiedz":"b"
+    }
+]
